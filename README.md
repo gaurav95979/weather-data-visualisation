@@ -1,2 +1,2 @@
-# weather-data-visualisation
-weather data visualization by using python
+# Weather-Data-Visualization
+Weather Data Visualization by python
